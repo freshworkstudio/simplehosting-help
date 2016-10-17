@@ -1,0 +1,7 @@
+- Primeros pasos con tu Hosting
+    - [Resumen](/content/{{version}}/resumen)
+    - [Comprar un dominio](/content/{{version}}/comprar-dominio)
+    - [Activa tu cuenta](/content/{{version}}/activa-tu-cuenta)
+    - [Configura DNS de tu domino](/content/{{version}}/configura-dns-de-tu-dominio)
+    - [Sube tu web](/content/{{version}}/sube-tu-web)
+    - [Configura tus correos](/content/{{version}}/configura-tus-correos)
